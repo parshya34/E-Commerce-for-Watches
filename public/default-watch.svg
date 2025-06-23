@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#F3F4F6"/>
+  <circle cx="256" cy="256" r="180" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="8"/>
+  <circle cx="256" cy="256" r="160" fill="#F9FAFB" stroke="#9CA3AF" stroke-width="4"/>
+  <circle cx="256" cy="256" r="10" fill="#4B5563"/>
+  <line x1="256" y1="150" x2="256" y2="190" stroke="#4B5563" stroke-width="6" stroke-linecap="round"/>
+  <line x1="256" y1="322" x2="256" y2="362" stroke="#4B5563" stroke-width="6" stroke-linecap="round"/>
+  <line x1="150" y1="256" x2="190" y2="256" stroke="#4B5563" stroke-width="6" stroke-linecap="round"/>
+  <line x1="322" y1="256" x2="362" y2="256" stroke="#4B5563" stroke-width="6" stroke-linecap="round"/>
+  <line x1="256" y1="256" x2="256" y2="200" stroke="#4B5563" stroke-width="8" stroke-linecap="round"/>
+  <line x1="256" y1="256" x2="300" y2="256" stroke="#4B5563" stroke-width="8" stroke-linecap="round"/>
+  <rect x="246" y="120" width="20" height="40" rx="5" fill="#9CA3AF"/>
+  <rect x="246" y="352" width="20" height="40" rx="5" fill="#9CA3AF"/>
+  <text x="256" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#4B5563">Luxury Watch</text>
+</svg>

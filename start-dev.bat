@@ -1,0 +1,6 @@
+@echo off
+echo Starting backend server...
+start cmd /k "cd %~dp0 && npm run server"
+echo Starting frontend...
+start cmd /k "cd %~dp0 && npm run dev"
+echo Both servers should be starting now.
