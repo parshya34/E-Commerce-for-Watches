@@ -1,0 +1,9 @@
+services:
+  - type: web
+    runtime: node
+    name: watch-ecommerce-backend
+    buildCommand: npm install
+    startCommand: npm run server:alt
+    envVars:
+      - key: NODE_ENV
+        value: production
